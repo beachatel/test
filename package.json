@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beachatel/Backend-Development-Assessment.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Bea Chatel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beachatel/Backend-Development-Assessment/issues"
+  },
+  "homepage": "https://github.com/beachatel/Backend-Development-Assessment#readme"
+}
